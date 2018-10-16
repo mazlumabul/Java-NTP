@@ -1,2 +1,2 @@
-# Java-NTP-
+# Java-NTP
 Java Uygulamaları
