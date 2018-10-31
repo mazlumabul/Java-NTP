@@ -1,5 +1,5 @@
-//Klanyeden girilen N sayisinin 
-//1 uzeri 1+ 2 uzeri 2+ 3 uzeri 3+....+N uzeri N
+//Klavyeden girilen N sayisinin 
+//1^1+ 2^2+ 3^3+....+N^N
 //degerini bulup sonucu ekrana yazan prg
 import java.util.Scanner;
 public class Uygulama {
